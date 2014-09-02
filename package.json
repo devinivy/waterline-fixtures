@@ -1,9 +1,9 @@
 {
-	"name":"sails-fixtures",
-	"version":"0.1.3",
+	"name":"waterline-fixtures",
+	"version":"0.1.0",
 	"license":"GPLv3",
-	"description":"Easy to use fixtures for sails",
-	"author":"just-paja <just-paja@gmail.com>",
+	"description":"Easy-to-use fixtures for Waterline ORM.",
+	"author":"Devin Ivy",
 	"main":"./lib/index.js",
 	"dependencies":{
 		"node.extend":"*",
@@ -15,6 +15,6 @@
 	},
 	"repository":{
 		"type":"git",
-		"url":"https://github.com/proboston/sails-fixtures.git"
+		"url":"https://github.com/devinivy/waterline-fixtures.git"
 	}
 }

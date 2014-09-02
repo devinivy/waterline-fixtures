@@ -23,7 +23,7 @@ var waterlineFixtures = require('waterline-fixtures');
 
 var ORM = new Waterline();
 
-// Load Waterline collections here and setup configuration for Waterline */
+// Load Waterline collections here and setup configuration for Waterline
 var waterlineConfig = {};
 
 // Initialize Waterline

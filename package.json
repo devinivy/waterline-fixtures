@@ -1,17 +1,19 @@
 {
 	"name":"waterline-fixtures",
-	"version":"0.2.1",
+	"version":"0.2.2",
 	"license":"GPLv3",
 	"description":"Easy-to-use fixtures for Waterline ORM.",
 	"author":"Devin Ivy",
+	"keywords":[
+		"waterline",
+		"data",
+		"fixtures"
+	],
 	"main":"./lib/index.js",
 	"dependencies":{
 		"node.extend":"*",
 		"async":"*",
 		"glob":"*"
-	},
-	"scripts":{
-		"test":"echo Running tests... && mocha --globals testRule"
 	},
 	"repository":{
 		"type":"git",

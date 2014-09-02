@@ -1,6 +1,6 @@
 # Fixtures for Waterline ORM
 
-Provides an easy way to initialize fixtures using Waterline ORM.  Fixtures are generally read from JSON files into Waterline collections.
+Provides an easy way to initialize data fixtures using [Waterline ORM](https://github.com/balderdashy/waterline).  Most of the code here comes from [sails-fixtures](https://github.com/proboston/sails-fixtures).  Fixtures are generally read from JSON files into Waterline collections.
 
 ## How-to
 
@@ -23,7 +23,7 @@ var waterlineFixtures = require('waterline-fixtures');
 
 var ORM = new Waterline();
 
-/* Load Waterline collections here and setup configuration for Waterline */
+// Load Waterline collections here and setup configuration for Waterline */
 var waterlineConfig = {};
 
 // Initialize Waterline

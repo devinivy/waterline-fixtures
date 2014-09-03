@@ -1,6 +1,6 @@
 {
 	"name":"waterline-fixtures",
-	"version":"0.2.2",
+	"version":"0.2.3",
 	"license":"GPLv3",
 	"description":"Easy-to-use fixtures for Waterline ORM.",
 	"author":"Devin Ivy",
